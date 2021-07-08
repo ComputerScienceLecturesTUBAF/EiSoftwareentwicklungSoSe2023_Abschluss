@@ -1,0 +1,2 @@
+# SoftwareentwicklungSoSe2021_Aufgabe_06mb
+Objektorientierter Entwurf und Implementierung
