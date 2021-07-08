@@ -2,7 +2,7 @@
 
 Mit dieser Aufgabe sollen Ihre Fähigkeiten beim objektorientierten Entwurf und einer entsprechenden C#-Implementierung überprüft werden.
 
-Lösen Sie die Aufgabe zuzweit in einem GitHub-Projekt. Teilen Sie die Teilaufgaben gleichmäßig unter Projektteilnehmern auf. Der geleistete Beitrag jedes der beiden Teilnehmers soll dabei im Repository nachvollziehbar sein.
+Lösen Sie die Aufgabe zu zweit in einem GitHub-Projekt. Teilen Sie die Teilaufgaben gleichmäßig unter Projektteilnehmern auf, der geleistete Beitrag jedes Teilnehmers soll dabei im Repository nachvollziehbar sein.
 
 ## Bearbeitungszeit
 
