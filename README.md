@@ -2,7 +2,7 @@
 
 Mit dieser Aufgabe sollen Ihre Fähigkeiten beim objektorientierten Entwurf und einer entsprechenden C#-Implementierung überprüft werden.
 
-Lösen Sie die Aufgabe zu zweit in einem GitHub-Projekt. Teilen Sie die Teilaufgaben gleichmäßig unter Projektteilnehmern auf, der geleistete Beitrag jedes Teilnehmers soll dabei im Repository nachvollziehbar sein.
+Lösen Sie die Aufgabe zu zweit in einem GitHub-Projekt. Teilen Sie die Teilaufgaben gleichmäßig unter Projektteilnehmern auf, der geleistete Beitrag jedes Teilnehmers soll dabei im Repository nachvollziehbar sein. Tragen Sie bitte dazu in die team.config Datei Ihre Github Accountnamen und die Matrikelnummer ein.
 
 ## Bearbeitungszeit
 
@@ -69,4 +69,4 @@ Testen Sie Ihre Tierklassen in der Main -Methode.
 + Geben Sie Ihre Haustiere auf der Konsole aus und lassen Sie sie schwimmen bzw. sich bewegen.
 + Kombinieren Sie Garten und Aquarium in einer `Pet` -Liste namens `Zoo`. Pflegen Sie den gesamten Zoo.
 + Streicheln Sie diejenigen Haustiere im Zoo, die das IStrokeable -Interface implementieren (Tipp: `as` -Operator nutzen).
-+ Welches objektorientierte Konzept ermöglicht es, dass beim Zugriff über den Basisklassen-Typ die korrekten Methodenimplementierungen aus den Unterklassen aufgerufen werden?
+
