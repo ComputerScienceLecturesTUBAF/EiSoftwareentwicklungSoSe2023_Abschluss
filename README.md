@@ -2,7 +2,9 @@
 
 Mit dieser Aufgabe sollen Ihre Fähigkeiten beim objektorientierten Entwurf und einer entsprechenden C#-Implementierung überprüft werden.
 
-Lösen Sie die Aufgabe zu zweit in einem GitHub-Projekt. Teilen Sie die Teilaufgaben gleichmäßig unter Projektteilnehmern auf, der geleistete Beitrag jedes Teilnehmers soll dabei im Repository nachvollziehbar sein. Tragen Sie bitte dazu in die team.config Datei Ihre Github Accountnamen und die Matrikelnummer ein.
+Lösen Sie die Aufgabe zu zweit in einem GitHub-Projekt. Teilen Sie die Teilaufgaben gleichmäßig unter Projektteilnehmern auf, der geleistete Beitrag jedes Teilnehmers soll dabei im Repository nachvollziehbar sein. 
+
+> Tragen Sie bitte dazu in die team.config Datei Ihre Github Accountnamen und die Matrikelnummer ein.
 
 ## Bearbeitungszeit
 
