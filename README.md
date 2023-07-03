@@ -8,7 +8,7 @@ Lösen Sie die Aufgabe zu zweit in einem GitHub-Projekt. Teilen Sie die Teilaufg
 
 ## Bearbeitungszeit
 
-bis 17. Juli 2021
+bis 25. Juli 2023
 
 ## Hinweise zur Realisierung
 
